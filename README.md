@@ -2,30 +2,14 @@
 
 ### ☁️ DevOps & Platform Engineer | 🚀 Infrastructure & AI Orchestration
 
-I'm a DevOps and Platform Engineer currently building and optimizing scalable cloud infrastructure at **Tata Communications Limited**. I specialize in container orchestration, infrastructure as code, and creating robust environments for high-performance computing and machine learning workloads.
-
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Orchestrating complex cloud infrastructure and optimizing ML workloads utilizing NVIDIA GPUs (L40S, H100, H200).
-- 🛠️ **Tech Stack Focus:** Kubernetes, Infrastructure as Code (Terraform, Ansible), and observability (Prometheus, Grafana).
+=- 🛠️ **Tech Stack Focus:** Kubernetes, Infrastructure as Code (Terraform, Ansible), and observability (Prometheus, Grafana).
 - 🌱 **Currently exploring:** The frontiers of advanced computing, specifically **Quantum Computing and Quantum Machine Learning (QML)**.
 - 🎓 **Academic Background:** B.E. in Computer Science and Engineering from Rajalakshmi Engineering College.
-- 📝 **Research & Publications:** Co-authored *"Early Detection of Diabetic Retinopathy Using Deep Convolutional Neural Network"*.
-
----
-
-### 🧰 Tech Stack & Tools
-
-**Infrastructure & Orchestration**
-- Kubernetes | Terraform | Ansible
-
-**Observability & Monitoring**
-- Prometheus | Grafana
-
-**AI & High-Performance Computing**
-- NVIDIA GPU Orchestration 
+--- 
 
 ---
 
@@ -50,7 +34,3 @@ I'm a DevOps and Platform Engineer currently building and optimizing scalable cl
 </div>
 
 ---
-
-### 📫 Connect with Me
-- **LinkedIn:** [Insert your LinkedIn URL here](#)
-- **Portfolio/Website:** [Insert your link here](#)
