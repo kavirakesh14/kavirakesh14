@@ -48,13 +48,9 @@ $ whoami
 ---
 
 <!-- GITHUB STATS -->
-### `> cat stats.log`
+### `> cat stats-graph.log`
 
 <div align="left">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kavirakesh14&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&hide_rank=false" alt="GitHub Stats" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavirakesh14&bg_color=000000&color=00FF00&line=00FF00&point=9dffb0&area=true&area_color=003B00&title_color=00FF00&hide_border=true" alt="Contribution Graph" />
 
