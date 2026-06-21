@@ -52,12 +52,12 @@ $ whoami
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavelevich&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&hide_rank=false" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelevich&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&hide=html" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kavirakesh14&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&hide_rank=false" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavirakesh14&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&hide=html" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavelevich&bg_color=000000&color=00FF00&line=00FF00&point=9dffb0&area=true&area_color=003B00&title_color=00FF00&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavirakesh14&bg_color=000000&color=00FF00&line=00FF00&point=9dffb0&area=true&area_color=003B00&title_color=00FF00&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
