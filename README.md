@@ -27,7 +27,7 @@ $ whoami
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Go-mod?style=for-the-badge&logo=go&logoColor=00FF00" alt="Go" />
+<img src="https://img.shields.io/badge/Go-mod-000000?style=for-the-badge&logo=go&logoColor=00FF00" alt="Go" />
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" alt="Python" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00" alt="C++" />
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=00FF00" alt="C" />
@@ -54,10 +54,6 @@ $ whoami
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pavelevich&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&hide_rank=false" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelevich&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff&hide=html" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavelevich&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
 
 <br/>
 
