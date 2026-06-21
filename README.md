@@ -1,20 +1,23 @@
-### 🏁 Public Contributions & Stats
+<!-- MATRIX HEADER -->
+<img src="./header.svg" width="100%" />
 
+<!-- TYPING ANIMATION -->
 <div align="center">
 
-  <!-- Top Row: Stats and Streak aligned side-by-side -->
-  <a href="https://github.com/kavirakesh14">
-    <img src="https://github-readme-stats.vercel.app/api?username=kavirakesh14&show_icons=true&bg_color=101010&title_color=00D2BE&text_color=A6A6A6&icon_color=00D2BE&hide_border=true" height="195" alt="kavirakesh14 GitHub Stats" />
-  </a>
-  <a href="https://github.com/kavirakesh14">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavirakesh14&background=101010&ring=00D2BE&fire=00D2BE&currStreakNum=FFFFFF&sideNums=A6A6A6&currStreakLabel=00D2BE&sideLabels=A6A6A6&dates=A6A6A6&hide_border=true" height="195" alt="kavirakesh14 GitHub Streak" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=%3E%3EDevOps+%26+Platform+Engineering;%3E%3EKubernetes,+Terraform+%26+Ansible;%3E%3EOrchestrating+HPC+%26+AI+Workloads;%3E%3EExploring+Quantum+Machine+Learning...)](https://git.io/typing-svg)
 
-  <br><br>
-
-  <!-- Bottom Row: Top Languages centered -->
-  <a href="https://github.com/kavirakesh14">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavirakesh14&layout=compact&bg_color=101010&title_color=00D2BE&text_color=A6A6A6&hide_border=true&langs_count=8" height="195" alt="kavirakesh14 Top Languages" />
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=kavirakesh14&color=00FF00&style=flat-square&label=VISITORS)
 
 </div>
+
+---
+
+<!-- TERMINAL ABOUT -->
+
+```bash
+$ whoami
+
+  Role:    DevOps & Platform Engineer @ Tata Communications Limited
+  Stack:   Kubernetes · Terraform · Ansible · Prometheus · Grafana
+  Focus:   Cloud Infrastructure · HPC & NVIDIA GPUs · Observability · QML
+  Motto:   ">>orchestrating scale & optimizing performance"
