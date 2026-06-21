@@ -1,5 +1,5 @@
 <!-- MATRIX HEADER -->
-<img src="./header.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=matrix&color=00FF00&height=200&text=kavirakesh14&fontColor=00FF00&animation=fadeIn&fontAlignY=40&desc=DevOps%20%26%20Platform%20Engineer&descSize=20&descAlignY=60&descAlign=50" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <div align="center">
