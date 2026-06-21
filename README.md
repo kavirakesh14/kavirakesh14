@@ -27,10 +27,10 @@ $ whoami
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Golang?style=for-the-badge&logo=rust&logoColor=00FF00" alt="Go" />
+<img src="https://img.shields.io/badge/Go?style=for-the-badge&logo=go&logoColor=00FF00" alt="Go" />
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" alt="Python" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00" alt="C++" />
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=swift&logoColor=00FF00" alt="C" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=00FF00" alt="C" />
 <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00" alt="Shell" />
 
 </div>
