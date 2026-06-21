@@ -27,7 +27,7 @@ $ whoami
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Go-mod?style=for-the-badge&logo=go&logoColor=00FF00" alt="Go-mod" />
+<img src="https://img.shields.io/badge/Go-mod?style=for-the-badge&logo=go&logoColor=00FF00" alt="Go" />
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" alt="Python" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00" alt="C++" />
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=00FF00" alt="C" />
