@@ -16,7 +16,7 @@ $ whoami
 
   Role:    DevOps @ Tata Communications Limited
   Stack:   Kubernetes · CI/CD · Ansible · Prometheus · Grafana
-  Focus:   Cloud Infrastructure · Deployment · Observability · AI/ML · Quantom Computing
+  Focus:   Cloud Infrastructure · OSS · Observability · AI/ML · Quantom Computing
   Motto:   ">>Work Like Hell"
 ```
 
