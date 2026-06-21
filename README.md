@@ -14,7 +14,7 @@
 ```bash
 $ whoami
 
-  Role:    DevOps & Platform Engineer @ Tata Communications Limited
-  Stack:   Kubernetes · Terraform · Ansible · Prometheus · Grafana
-  Focus:   Cloud Infrastructure · HPC & NVIDIA GPUs · Observability · QML
-  Motto:   ">>orchestrating scale & optimizing performance"
+  Role:    DevOps @ Tata Communications Limited
+  Stack:   Kubernetes · CI/CD · Ansible · Prometheus · Grafana
+  Focus:   Cloud Infrastructure · Deployment · Observability · AI/ML · Quantom Computing
+  Motto:   ">>Work Like Hell"
