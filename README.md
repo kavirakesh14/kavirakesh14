@@ -1,4 +1,5 @@
-<!-- TYPING ANIMATION -->
+
+<!-- TYPING ANIMATION & CMATRIX HEADER -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=%3E%3EDevOps+%26+Platform+Engineering;%3E%3EKubernetes,+Rook-Ceph,+Ansible+%26+Monitoring;%3E%3EOpen-Source+Contribution+and+Publications;%3E%3EExploring+Quantum+Computing+and+Machine+Learning...)](https://git.io/typing-svg)
@@ -11,11 +12,20 @@
 
 <!-- TERMINAL ABOUT -->
 ```bash
-$ whoami
-  Role:    DevOps @ Tata Communications Limited
-  Stack:   Kubernetes · CI/CD · Ansible · Prometheus · Grafana
-  Focus:   Cloud Infrastructure · Open-Source Software · AI/ML · Quantom Computing
-  Motto:   ">>Never ending thirst for knowledge"
+```bash
+kavirakesh@:~$ neofetch
+       _,met$$$$$gg.          kavirakesh@tata-communications
+    ,g$$$$$$$$$$$$$$$P.       --------------------------
+  ,g$$P"     """Y$$.".        Role:  DevOps Engineer
+ ,$$P'              `$$$.     Stack: Kubernetes, CI/CD, Ansible, Prom/Grafana
+',$$P       ,ggs.     `$$b:   Focus: Cloud Infra, Open-Source, AI/ML, Quantum
+`d$$'     ,$P"'   .    $$$    Uptime: 24/7 (Never ending thirst for knowledge)
+ $$P      d$'     ,    $$P    Shell: bash 5.1.16
+ $$:      $$.   -    ,d$$'    
+ $$;      Y$b._   _,d$P'      ████████████████████████████████████
+ Y$$.    `.`"Y$$$$P"'         
+ `$$b      "-.__              
+  `Y$$
 ```
 
 ---
@@ -95,12 +105,14 @@ $ whoami
 ---
 
 <!-- GITHUB STATS -->
-### `> cat stats-graph.log`
+### `kavirakesh@:~$ curl -sSL https://api.github.com/users/kavirakesh14/metrics | jq`
 <div align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavirakesh14&bg_color=000000&color=00FF00&line=00FF00&point=9dffb0&area=true&area_color=003B00&title_color=00FF00&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:003300,100:000000&section=footer" width="100%" />
+### `kavirakesh@:~$ exit`
+```bash
+logout
+Connection to closed.
