@@ -1,9 +1,6 @@
-
-<!-- TYPING ANIMATION & CMATRIX HEADER -->
+<!-- TYPING ANIMATION -->
 <div align="center">
-<img src="./assets/cmatrix.gif" width="100%" alt="cmatrix terminal rain" />
-<br/>
-       
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=%3E%3EDevOps+%26+Platform+Engineering;%3E%3EKubernetes,+Rook-Ceph,+Ansible+%26+Monitoring;%3E%3EOpen-Source+Contribution+and+Publications;%3E%3EExploring+Quantum+Computing+and+Machine+Learning...)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kavirakesh14&color=00FF00&style=flat-square&label=VISITORS)
