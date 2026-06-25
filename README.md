@@ -93,10 +93,3 @@
 <div align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavirakesh14&bg_color=000000&color=00FF00&line=00FF00&point=9dffb0&area=true&area_color=003B00&title_color=00FF00&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-### `kavirakesh@:~$ exit`
-```bash
-logout
-Connection to closed.
