@@ -1,6 +1,5 @@
 <!-- TERMINAL ABOUT -->
 ```bash
-```bash
 kavirakesh@:~$ neofetch
        _,met$$$$$gg.          kavirakesh@tata-communications
     ,g$$$$$$$$$$$$$$$P.       --------------------------
