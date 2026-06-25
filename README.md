@@ -84,7 +84,6 @@
 
 </div>
 
----
 
 <!-- GITHUB STATS -->
 ### `kavirakesh@:~$ curl -sSL https://api.github.com/users/kavirakesh14/metrics | jq`
