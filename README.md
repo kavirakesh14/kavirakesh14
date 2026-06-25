@@ -1,19 +1,7 @@
-<!-- TERMINAL ABOUT -->
-```bash
-kavirakesh@:~$ neofetch
-       _,met$$$$$gg.          kavirakesh@tata-communications
-    ,g$$$$$$$$$$$$$$$P.       --------------------------
-  ,g$$P"     """Y$$.".        Role:  DevOps Engineer
- ,$$P'              `$$$.     Stack: Kubernetes, CI/CD, Ansible, Prom/Grafana
-',$$P       ,ggs.     `$$b:   Focus: Cloud Infra, Open-Source, AI/ML, Quantum
-`d$$'     ,$P"'   .    $$$    Uptime: 24/7 (Never ending thirst for knowledge)
- $$P      d$'     ,    $$P    Shell: bash 5.1.16
- $$:      $$.   -    ,d$$'    
- $$;      Y$b._   _,d$P'      ████████████████████████████████████
- Y$$.    `.`"Y$$$$P"'         
- `$$b      "-.__              
-  `Y$$
-```
+<div align="left">
+  <img src="./assets/bio.png" width="100%" alt="Neofetch Terminal" />
+</div>
+
 
 <!-- TYPING ANIMATION -->
 <div align="center">
