@@ -2,7 +2,7 @@
   <img src="./assets/bio.png" width="100%" alt="Neofetch Terminal" />
 </div>
 
-
+---
 <!-- TYPING ANIMATION -->
 <div align="center">
 
