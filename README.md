@@ -12,7 +12,6 @@
 
 </div>
 
----
 
 <!-- LANGS -->
 ### `> ls langs/`
@@ -24,7 +23,6 @@
 <img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00" alt="Shell" />
 </div>
 
----
 
 ### `> ls tools/`
 <div align="left">
