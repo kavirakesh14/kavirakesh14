@@ -1,5 +1,4 @@
 <div align="left">
-  <img src="./assets/bio.png" width="100%" alt="Neofetch Terminal" />
 </div>
 
 ---
